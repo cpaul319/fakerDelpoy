@@ -14,21 +14,15 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cpaul319/fakerDelpoy.git"
-    
   },
   "author": "cpaul8@yahoo.com",
   "license": "MIT",
-  "bugs": {
-
-  },
- 
+  "bugs": {},
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "faker": "^5.5.3",
     "lowdb": "^1.0.0"
-  },
-  "devDependencies": {
-    "@faker-js/faker": "^7.6.0"
   }
 }
